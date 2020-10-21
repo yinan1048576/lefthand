@@ -55,7 +55,8 @@
         mi    so       do                               ||
         ||    ||       ||                         MI
         mi    so       do                               SO
-        ||    ||       ||                     {RE MI}<==
+        ||    ||       ||                        /MI/
+                                              /RE/
         mi       la    do                   DO
         ||       ||    ||                   ||
         mi       la    do                   ||
@@ -127,7 +128,8 @@
         mi    so       do                               ||
         ||    ||       ||                         MI
         mi    so       do                               SO
-        ||    ||       ||                     {RE MI}<==
+        ||    ||       ||                        /MI/
+                                              /RE/
         mi       la    do                   DO
         ||       ||    ||                   ||
         mi       la    do                   ||
