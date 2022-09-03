@@ -6,7 +6,7 @@
  \_|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|_\
  re mi fa so la si do re mi fa so la si do re mi fa so la si do re mi fa so la si
 
- lefthand (yz / w. a. mozart)                                   RIGHTHAND (ASHIN)
+ lefthand (yz / w. a. mozart)                            RIGHTHAND (MAYDAY'ASHIN)
  --+--+--+--+--+--|--+--+--+--+--+--+--|--+--+--+--+--+--+--|--+--+--+--+--+--+--
               !si                                       !SI
                |            fa                           |
